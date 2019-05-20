@@ -1,9 +1,16 @@
 {
   "name": "express-env",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "Leonardo Kewitz <leokewitz@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "env",
+    "environment",
+    "express",
+    "middleware",
+    "variables"
+  ],
   "scripts": {
     "build": "NODE_ENV=production tsc -p tsconfig.json",
     "check-types": "tsc -p tsconfig.json --noEmit --noErrorTruncation",

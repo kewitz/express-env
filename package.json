@@ -1,6 +1,6 @@
 {
   "name": "express-env",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "author": "Leonardo Kewitz <leokewitz@gmail.com>",
   "license": "MIT",
@@ -18,17 +18,17 @@
     "test": "mocha --require ts-node/register test/*.spec.ts"
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.138",
+    "@types/lodash": "^4.14.177",
     "@types/mocha": "^5.2.7",
-    "@types/node": "^12.7.2",
-    "@types/sinon": "^7.0.13",
-    "mocha": "^6.2.0",
-    "sinon": "^7.4.1",
-    "ts-node": "^8.3.0",
-    "tslint": "^5.19.0",
-    "typescript": "^3.5.3"
+    "@types/node": "^12.20.37",
+    "@types/sinon": "^7.5.2",
+    "mocha": "^6.2.3",
+    "sinon": "^7.5.0",
+    "ts-node": "^8.10.2",
+    "tslint": "^5.20.1",
+    "typescript": "^3.9.10"
   },
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }

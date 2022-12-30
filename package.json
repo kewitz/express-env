@@ -22,7 +22,7 @@
     "@types/mocha": "^5.2.7",
     "@types/node": "^12.20.37",
     "@types/sinon": "^7.5.2",
-    "mocha": "^6.2.3",
+    "mocha": "^10.2.0",
     "sinon": "^7.5.0",
     "ts-node": "^8.10.2",
     "tslint": "^5.20.1",
